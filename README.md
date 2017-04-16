@@ -17,6 +17,7 @@
 
 ## June 2017
 - (June 1 - 2) [RevolutionConf](http://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.
+- (June 7 - 9) [Enterprise UX](http://enterpriseux.net) (San Francisco, CA) - Enterprise UX is dedicated to delivering useful, delightful, and humane experiences to people who work for and in enterprises.
 
 ## May 2017
  - (May 2–4) [Red Hat Summit](https://www.redhat.com/en/summit/2017) (Boston, MA) - Red Hat Summit is for anyone interested in open source.
